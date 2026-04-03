@@ -39,7 +39,7 @@ Y = 0.299R + 0.587G + 0.114B
 
 **Оригинал - Полутон:**
 
-![orig](img1.png)
+![orig](map.png)
 ![gray](gray_1.bmp)
 
 ---
@@ -58,7 +58,7 @@ Y = 0.299R + 0.587G + 0.114B
 
 ### Перевод в полутон
 
-![orig](img2.png)
+![orig](xray.png)
 ![gray](gray_2.bmp)
 
 ---
@@ -75,7 +75,7 @@ Y = 0.299R + 0.587G + 0.114B
 
 ### Перевод в полутон
 
-![orig](img3.png)
+![orig](mult.png)
 ![gray](gray_3.bmp)
 
 ---
@@ -92,7 +92,7 @@ Y = 0.299R + 0.587G + 0.114B
 
 ### Перевод в полутон
 
-![orig](img4.png)
+![orig](fingerprint.png)
 ![gray](gray_4.bmp)
 
 ---
@@ -109,7 +109,7 @@ Y = 0.299R + 0.587G + 0.114B
 
 ### Перевод в полутон
 
-![orig](img5.png)
+![orig](text.png)
 ![gray](gray_5.bmp)
 
 ---
